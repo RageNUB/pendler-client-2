@@ -1,0 +1,34 @@
+.mx-10 {
+    margin-left: 9.5rem;
+    margin-right: 5.5rem;
+}
+.mx-1 {
+    margin-left: 10.5rem;
+    margin-right: 5.5rem;
+}
+.dis{
+    display: none;
+    margin-left: 5rem;
+}
+.mak{
+    margin-left: 19.4rem;
+}
+.btxx{
+    background-color: #c92525;
+    color: rgb(208, 211, 214);
+    border: none;
+    
+}
+.btxx:hover{
+    background-color: #f34444;
+}
+@media screen and (max-width: 992px) {
+    .mak {
+      margin-left: 21.4rem;
+    }
+    .mx-10 {
+        margin-left: 11.5rem;
+        margin-right: 5.5rem;
+    }
+   
+  }

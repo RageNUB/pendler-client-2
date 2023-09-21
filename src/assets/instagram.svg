@@ -1,0 +1,23 @@
+{/* <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="currentColor"
+  className="bi bi-arrow-down"
+  viewBox="0 0 16 16"
+>
+  <path
+    fillRule="evenodd"
+    d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1z"
+  />
+</svg> */}
+<svg
+  width="24"
+  height="24"
+  xmlns="http://www.w3.org/2000/svg"
+  fillRule="evenodd" clipRule="evenodd"
+>
+  <path
+    d="M11 21.883l-6.235-7.527-.765.644 7.521 9 7.479-9-.764-.645-6.236 7.529v-21.884h-1v21.883z"
+  />
+</svg>
